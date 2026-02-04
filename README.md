@@ -19,7 +19,7 @@ My work centers on building reliable analytics systems, improving data accessibi
 A production-style **real-time data pipeline** for streaming, processing, and visualizing live market data.
 
 **Tech:** Python · Kafka · Spark · PostgreSQL · Docker · Power BI  
-👉 [View Project Repository](https://github.com/Efe-Godson/REAL_TIME_STOCK_MARKET_ANALYSIS)
+👉 [View Project Repository](https://github.com/Efe-Godson/Real-Time-Stock-Market-Analysis)
 
 > This project reflects my focus on building scalable, reliable analytics systems and real-time data workflows.
 
