@@ -44,7 +44,7 @@ A production-style **real-time data pipeline** for streaming, processing, and vi
 
 ## 🤝 Let’s Connect
 - **LinkedIn:** https://linkedin.com/in/efegodsonakpobasa  
-- **GitHub:** https://github.com/Efe-Godson  
+
 
 ---
 
