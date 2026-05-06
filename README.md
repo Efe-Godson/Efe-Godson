@@ -1,8 +1,8 @@
 # Hi, I’m Efe 👋
 
-I build data systems and analyses that turn complex data into decisions.
+I build data systems and analytics that turn complex data into actionable decisions.
 
-My work sits at the intersection of analytics engineering and decision support, with experience across programme operations, commercial, and marketing contexts. I focus on working with real-world data; often messy, incomplete, and high-stakes, and turning it into clear, actionable insight.
+My work sits at the intersection of analytics engineering and decision support, helping teams make better decisions with messy, real-world data. I’ve worked across programme operations, commercial, and marketing contexts, delivering clear, decision-ready insights.
 
 ---
 
