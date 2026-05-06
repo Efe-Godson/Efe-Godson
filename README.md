@@ -2,7 +2,7 @@
 
 I build data systems and analyses that turn complex data into decisions.
 
-My work sits at the intersection of analytics engineering and decision support, with experience across programme operations, commercial, and marketing contexts. I focus on working with real-world data — often messy, incomplete, and high-stakes — and turning it into clear, actionable insight..
+My work sits at the intersection of analytics engineering and decision support, with experience across programme operations, commercial, and marketing contexts. I focus on working with real-world data; often messy, incomplete, and high-stakes, and turning it into clear, actionable insight.
 
 ---
 
