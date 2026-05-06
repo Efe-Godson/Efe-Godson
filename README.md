@@ -1,15 +1,22 @@
 # Hi, I’m Efe 👋
 
-I’m a **data professional focused on analytics engineering, data pipelines, and insight delivery**, with over three years of experience supporting decision-making across commercial, marketing, and operational teams.
+I build data systems and analyses that turn complex data into decisions.
 
-My work centers on building reliable analytics systems, improving data accessibility, and turning complex datasets into clear, actionable insights for non-technical stakeholders.
+My work sits at the intersection of analytics engineering and decision support, with experience across programme operations, commercial, and marketing contexts. I focus on working with real-world data — often messy, incomplete, and high-stakes — and turning it into clear, actionable insight..
 
 ---
+
+## 🧠 What I Do
+- Translate ambiguous questions into structured analysis  
+- Build and maintain data pipelines and analytics systems  
+- Analyse performance across programme, commercial, and marketing contexts  
+- Deliver clear, decision-ready insights for non-technical stakeholders
+-   
 
 ## 🧠 What I Work With
 - Business and performance analytics  
 - Analytics engineering & data pipelines  
-- SQL, Python, and data modelling  
+- SQL, Python, BI tools and data modelling  
 - Dashboards, reporting, and insight delivery  
 
 ---
@@ -30,7 +37,16 @@ A production-style **real-time data pipeline** for streaming, processing, and vi
 - **Data & Analytics:** Power BI, Excel, pandas  
 - **Streaming & Processing:** Apache Kafka, Apache Spark  
 - **Databases:** PostgreSQL  
-- **Infrastructure:** Docker & Docker Compose  
+- **Infrastructure:** Docker & Docker Compose
+
+## ✍🏾 How I Think About Data
+
+I approach data work as a decision problem, not just a technical one.
+
+- Clarifying the real question behind a request  
+- Working with imperfect, messy datasets  
+- Prioritising clarity and usefulness over complexity  
+- Delivering outputs stakeholders can act on quickly  
 
 ---
 
