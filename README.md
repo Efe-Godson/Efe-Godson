@@ -11,7 +11,6 @@ My work sits at the intersection of analytics engineering and decision support, 
 - Build and maintain data pipelines and analytics systems  
 - Analyse performance across programme, commercial, and marketing contexts  
 - Deliver clear, decision-ready insights for non-technical stakeholders
--   
 
 ## 🧠 What I Work With
 - Business and performance analytics  
